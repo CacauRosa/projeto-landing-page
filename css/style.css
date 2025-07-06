@@ -252,7 +252,7 @@ body {
 .extras {
     width: 100%;
     height: auto;
-    max-width: 500px;
+    max-width: 400px;
 }
 
 .extras-titulo {
@@ -260,7 +260,7 @@ body {
 }
 
 .extras-lista {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .conteudo-e-extras {
