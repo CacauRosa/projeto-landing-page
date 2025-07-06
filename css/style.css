@@ -207,3 +207,69 @@ body {
 .rodape-contato-link:hover {
     color: #e7beff;
 }
+
+
+@media screen and (max-width: 800px) {
+.cabecalho {
+    flex-direction: column;
+    text-align: center;
+    padding: 24px;
+}
+
+.cabecalho-imagem-foto {
+    width: 120px;
+}
+
+.menu {
+    flex-direction: row;
+    gap: 16px;
+    padding: 12px;
+}
+
+.menu-item {
+    font-size: 18px;
+}
+
+.conteudo-secao {
+    padding: 24px;
+    margin: 20px 16px;
+}
+
+.conteudo-cabecalho-titulo {
+    font-size: 30px;
+}
+
+.conteudo-cabecalho-frase {
+    font-size: 16px;
+}
+
+.conteudo-projeto-link {
+    padding: 10px;
+    font-size: 16px;
+    padding: 20px 20px;
+}
+
+.extras {
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+}
+
+.extras-titulo {
+    font-size: 20px;
+}
+
+.extras-lista {
+    font-size: 16px;
+}
+
+.conteudo-e-extras {
+    flex-direction: column;
+    padding: 0 0.5px;
+}
+
+.rodape-contato {
+    flex-direction: column;
+    align-items: center;
+}
+}
