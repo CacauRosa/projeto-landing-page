@@ -28,7 +28,7 @@ A página foi projetada para funcionar bem em celulares, tablets e desktops, com
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -59,7 +59,7 @@ Você pode visualizar o projeto publicado acessando:
 ```
 ---
 
-## 🙋 Sobre Mim
+## 👩🏻‍💻 Sobre Mim
 
 Sou Ana Carolina Corrêa Rosa, estudante de Análise e Desenvolvimento de Sistemas (UniCesumar) e Ciência e Tecnologia (UFABC). Tenho interesse por desenvolvimento e atualmente atuo como estagiária em QA na Compass UOL.
 
