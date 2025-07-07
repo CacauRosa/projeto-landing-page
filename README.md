@@ -42,7 +42,7 @@ A página foi projetada para funcionar bem em celulares, tablets e desktops, com
 
 Você pode visualizar o projeto publicado acessando:
 
-📎 [Link da página publicada](ana-rosa-landing-page.vercel.app)  
+📎 [Link da página publicada](https://ana-rosa-landing-page.vercel.app/)
 
 ---
 
@@ -54,8 +54,8 @@ Você pode visualizar o projeto publicado acessando:
 │ └── style.css
 ├── 📁 img/
 │ └── minha-foto.jpg
-├── index.html
-└── README.md
+├── README.md
+└── index.html
 ```
 ---
 
